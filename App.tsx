@@ -1,7 +1,7 @@
 import { StatusBar } from "expo-status-bar"
 import { StyleSheet, Text, View, AppRegistry, TextInput, Button, Image } from "react-native"
 import { expo } from "./app.json"
-//import { PaperProvider, Icon,  Chip, ActivityIndicator, MD2Colors, MD3Colors, Divider, ProgressBar, SegmentedButtons, TextInput } from 'react-native-paper';
+//import { PaperProvider, Icon,  Chip, ActivityIndicator, MD2Colors, MD3Colors, Divider, ProgressBar, SegmentedButtons, TextInput } from 'react-native-paper'
 import React, {useState} from "react"
 
 //className='flex-[.5] bg-cyan-100 scale-90 rounded-3xl shadow-2xl shadow-cyan-500'
