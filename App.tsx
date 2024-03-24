@@ -54,7 +54,7 @@ export default function Main() {
     )
 }
 
-//AppRegistry.registerComponent(expo.name, () => Main);
+//AppRegistry.registerComponent(expo.name, () => Main)
 
 const styles = StyleSheet.create({
     container: {
