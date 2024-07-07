@@ -5,7 +5,7 @@ import { expo } from "./app.json"
 import React, {useState} from "react"
 
 //className='flex-[.5] bg-cyan-100 scale-90 rounded-3xl shadow-2xl shadow-cyan-500'
-//<StatusBar style="auto" />
+//<StatusBar style="auto" />//
 
 function App() {
 
